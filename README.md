@@ -1,4 +1,4 @@
-# Indian Restaurants Dashboard
+# Indian Restaurants Dashboard - 2023
 
 ## Overview
 This project features a Power BI dashboard that provides insights into Indian restaurants based on a dataset obtained from Kaggle. The dashboard visualizes key metrics such as total cuisines, average cost, ratings, and highlights the top-rated restaurant in a selected location.
